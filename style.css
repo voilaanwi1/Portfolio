@@ -8,7 +8,7 @@ body{
     color:#00abea;
     font-size:larger;
 }
-.tittle-icon{
+.title-icon{
     font-size: 20px;
     font-weight: bold;
 }
@@ -18,9 +18,7 @@ p{
 h2{
     font-size:bold ;
     font-weight: 23px;
-    margin-bottom:20 ;
-
-
+    margin-bottom: 20px;
 
 }
 
@@ -45,25 +43,25 @@ About
 #about .name{
  font-size: 19px;
 }
-#about .Vocation{
+#about .vocation{
     font-size: 17px;
-    color: #ABABAB;
+    color: #A8A8AB;
     margin-bottom: 10px;
 }
 #about .skills{
     font-size: 14px;
-    color: #00AbEA;
+    color: #00Abae;
     margin-bottom: 10px;
 }
 #about .email{
     margin-top: 14px;
     font-size: 14px;
 }
-#about .icon{
+#about .icons{
     margin-top: 20px;
     font-size: 30px;
 }
-#about .icon a{
+#about .icons a{
     color: #000;
 }
 /***********
@@ -79,6 +77,6 @@ project
 #project .card img{
     width: 100%;
 }
-#project .card-tittle{
+#project .card-title{
     font-weight: bold;
 }
